@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "title": "Main",
+        "link":"",
+        "when":"/",
+        "template":"partial1.html"
+    },
+    {
+        "id":2,
+        "title": "Home",
+        "link": "home",
+        "when":"/home",
+        "template":"partial3.html"
+    },
+    {
+        "id":3,
+        "title": "Gear",
+        "link": "gear",
+        "when":"/gear",
+        "template":"partial2.html"
+    },
+    {
+        "id":4,
+        "title": "Shop",
+        "link": "shop",
+        "when":"/shop",
+        "template":"partial3.html"
+    }
+]
+
